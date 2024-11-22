@@ -4,7 +4,6 @@ set number
 syntax on 
 set relativenumber 
 set autoindent
-set smartindent
 set mouse=a "enable mouse
 "set cursorline "highlight current line
 set wrap
